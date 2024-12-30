@@ -10,10 +10,10 @@
 
 💙 Полная сборка (с ассетами) доступна на Google Drive -> [Клик Сюда](https://drive.google.com/file/d/1BNWJIXFFnEqIk5-TO8udByMzK2_BuLkH/view?usp=sharing). Можете скачать его и просто распаковать на сервер, всё будет готово! 
 
-• Коллекция сервера -> [Клик сюда](https://steamcommunity.com/sharedfiles/filedetails/?id=3288856904)
-• Дискорд -> [Клик сюда](https://discord.gg/RjCWW4cbkW)
-• Гайд -> [Клик сюда](https://docs.google.com/document/d/1E7OGVgZfIHeco9neyglJU4gcmP32vg2q7FKQcoq9fzI/edit?usp=sharing)
-• Правила -> [Клик сюда](https://docs.google.com/document/d/17yinWfQsSSjkMktY5hoVnx5jzP98fYCp-MoZlaieSCM/edit?usp=drive_link)
+* Коллекция сервера -> [Клик сюда](https://steamcommunity.com/sharedfiles/filedetails/?id=3288856904)
+* Дискорд -> [Клик сюда](https://discord.gg/RjCWW4cbkW)
+* Гайд -> [Клик сюда](https://docs.google.com/document/d/1E7OGVgZfIHeco9neyglJU4gcmP32vg2q7FKQcoq9fzI/edit?usp=sharing)
+* Правила -> [Клик сюда](https://docs.google.com/document/d/17yinWfQsSSjkMktY5hoVnx5jzP98fYCp-MoZlaieSCM/edit?usp=drive_link)
 
 В репозитории только скрипты. Основных ассетов нет!
 
