@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "halloween2015/models/pumbkins/pumbkin_01_skin1"
+	"$surfaceprop" "Wood_Box"
+	
+	
+	"$model" 1
+
+	
+	$selfillum 1
+    $selfillummask "halloween2015/models/pumbkins/pumbkin_01_light"
+	
+	
+
+
+
+}

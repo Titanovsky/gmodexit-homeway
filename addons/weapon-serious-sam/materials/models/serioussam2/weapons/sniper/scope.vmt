@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/serioussam2/weapons/sniper/scope"
+	"$bumpmap" "models/serioussam2/weapons/sniper/scope_normalmap"
+	
+	"$phong" "1"
+	"$phongexponent" "100"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[.1 1 2]"
+}

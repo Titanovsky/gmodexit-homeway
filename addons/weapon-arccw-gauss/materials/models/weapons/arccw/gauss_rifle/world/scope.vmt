@@ -1,0 +1,20 @@
+"Vertexlitgeneric"
+{
+	"$baseTexture" "models/weapons/arccw/gauss_rifle/scope_d_blue"
+	"$bumpmap" "models/weapons/arccw/gauss_rifle/scope_n"
+
+	"$envmaptint" "[.03 .03 .03]"
+	"$model" "1"
+
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[1 2 3]"
+
+	"$envmapfresnel" "1"
+	"$envmapFresnelMinMaxExp" "[0 4 .4]"
+	"$rimlight" "1"
+	"$rimlightexponent" "66"
+	"$rimlightboost" "0.1"
+	"$rimmask" "1"
+	"$nocull" "1"
+}

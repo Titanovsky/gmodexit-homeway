@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"Models/player/elis/fs/tac_light"
+	"$envmap" "env_cubemap"	
+	"$envmapmask" "Models/player/elis/fs/tac_light_normal"
+	"$envmapcontrast" 1
+	"$surfaceprop" "flesh"
+	"$selfillum" 1
+	"$model" 1
+}

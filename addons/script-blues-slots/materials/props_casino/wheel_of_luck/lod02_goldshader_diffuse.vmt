@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"props_casino/wheel_of_luck/lod02_goldshader_diffuse"
+
+	"$surfaceprop" "Metal"
+
+	$color2 "{ 210 183 120 }"
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0.3"
+}

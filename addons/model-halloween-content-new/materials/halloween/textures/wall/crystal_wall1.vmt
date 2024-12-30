@@ -1,0 +1,52 @@
+"VertexlitGeneric"
+{    
+    $basetexture "halloween/textures/wall/crystal_wall1"
+	"$surfaceprop" "brick"
+	"%keywords" "wall"
+	
+	
+	"$detail" "effects/aurora.vtf"	
+	"$detailscale" "1"
+
+//	"$color2" "[25 25 255]"
+
+
+
+	"$selfillum" "1"
+	"$selfillumtint" "[.1 .9 1]"
+	"$selfIllumFresnel" "1"
+	"$selfIllumFresnelMinMaxExp" "[2 1 .1]"
+
+	"$rimlight" "1"												
+	"$rimlightexponent" "1"
+	"$rimlightboost" "95"	
+
+"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$detail"
+			"animatedtextureframenumvar" "$detailframe"
+			"animatedtextureframerate" 24
+		}
+		"Sine"
+		{
+			"sinemin" "1"
+			"sinemax" ".6"
+			"sineperiod" "1"
+			"resultVar" "$selfillumtint[1]"
+		}
+		"Sine"
+		{
+			"sinemin" ".9"
+			"sinemax" ".02"
+			"sineperiod" "0.7"
+			"resultVar" "$selfillumtint[0]"
+		}
+		"TextureScroll"
+		{
+			"texturescrollvar" "$detailtexturetransform"
+			"texturescrollrate" -.08
+			"texturescrollangle" 99
+		}
+}

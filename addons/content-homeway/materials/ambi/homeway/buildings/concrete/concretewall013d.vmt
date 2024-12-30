@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"concrete/concretewall013d"
+	"$detail"		"detail\noise_detail_01"
+	"$detailscale"		"7.345000"
+	"$detailblendfactor"		"0.200000"
+	"$detailblendmode"		"0"
+	"$model"		"1"
+}

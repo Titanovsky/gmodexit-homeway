@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"Metal/metalwall030a"
+	"$detail"		"detail\metal_detail_01"
+	"$detailscale"		"4.283000"
+	"$detailblendfactor"		"0.800000"
+	"$detailblendmode"		"0"
+	"$model"		"1"
+}

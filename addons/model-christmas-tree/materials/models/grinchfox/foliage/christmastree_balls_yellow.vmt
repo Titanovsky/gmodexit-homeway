@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "models/grinchfox/foliage/christmastree_balls_yellow"
+	$bumpmap "models/grinchfox/foliage/christmastree_balls_normal"
+	$envmap env_cubemap
+	$envmaptint "[ 1 0.8 0.2 ]"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\humans/mafia/arms"
+	"$bumpmap" "models\humans/mafia/arms_n"
+	"$halflambert" 1
+}

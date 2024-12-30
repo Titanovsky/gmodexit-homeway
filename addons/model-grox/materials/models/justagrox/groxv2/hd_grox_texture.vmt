@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/justagrox/groxv2/groxv2_justagrox"
+	"$bumpmap" "models/justagrox/groxv2/groxv2_justagrox_normal"
+
+"$phong" "1"
+"$phongexponenttexture" "models/justagrox/groxv2/groxv2_justagrox_bump"
+"$phongboost" "9"
+"$phongfresnelranges" "[0.04. 0.4 1]"
+
+$ambientocculusion 1
+$nocull "1"
+"$blendinbybasealpha" "1"
+}

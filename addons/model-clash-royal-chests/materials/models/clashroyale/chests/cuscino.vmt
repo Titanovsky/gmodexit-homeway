@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/ClashRoyale/chests/Cuscino"
+	"$nocull" 1
+}

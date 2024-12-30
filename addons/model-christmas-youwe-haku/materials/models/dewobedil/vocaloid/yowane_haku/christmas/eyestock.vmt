@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/vocaloid/yowane_haku/christmas/Haku"
+	"$nodecal" 1
+	$ambientocclusion 0
+	$halflambert 1
+	"$bumpmap" "models/dewobedil/vocaloid/yowane_haku/christmas/normal"
+
+	"$lightwarptexture" "models/dewobedil/vocaloid/yowane_haku/christmas/toon_face"
+}

@@ -1,0 +1,6 @@
+VertexLitGeneric
+{    
+    $basetexture "halloween/pumpkin/PumpkinDeco3"
+    $selfillum 1
+    $selfillummask "halloween/pumpkin/PumpkinDeco3_emissive"
+}

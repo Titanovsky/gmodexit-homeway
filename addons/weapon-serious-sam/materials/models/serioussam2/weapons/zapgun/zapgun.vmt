@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/serioussam2/weapons/zapgun/zapgun"
+	"$bumpmap" "models/serioussam2/weapons/zapgun/zapgun_normalmap"
+	
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[.25 .25 .25]"
+	
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "1.5"
+	"$phongfresnelranges" "[1 1 1]"
+}

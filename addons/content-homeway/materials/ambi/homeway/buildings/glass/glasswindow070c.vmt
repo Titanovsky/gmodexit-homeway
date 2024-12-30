@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"Glass/glasswindow070c"
+	"$envmap"		"env_cubemap"
+	"%keywords"		"c17industrial"
+	"$envmapmask"		"glass/glasswindow070c_mask"
+	"$envmaptint"		"[.3 .5 .6]"
+	"$additive"		"1"
+	"$model"		"1"
+}

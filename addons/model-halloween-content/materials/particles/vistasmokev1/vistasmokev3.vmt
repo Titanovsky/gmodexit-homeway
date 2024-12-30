@@ -1,0 +1,6 @@
+"SpriteCard"
+{
+	$basetexture "particles/vistaSmokeV1/vistasmokev1"
+	$depthblend 1
+	$blendframes 0
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "halloween/textures/trench/wood_trench02"
+	"$surfaceprop" "wood"
+	"$bumpmap" "halloween/textures/trench/wood_trench02_normal"
+	"%keywords" "ww1"
+}

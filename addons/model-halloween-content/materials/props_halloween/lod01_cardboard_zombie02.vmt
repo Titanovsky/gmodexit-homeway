@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"props_halloween/cardboard_zombie02"
+	"$surfaceprop" "cardboard"
+	"$model" 1
+	
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0"
+}

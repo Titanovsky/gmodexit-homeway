@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/gonzo/weedb/weed_shared"
+	"$alphatest""	1"
+	"$nocull" "1"
+	"$distancealpha"	"1"
+
+	"$softedges"		"1"
+	"$edgesoftnessstart"	".5"
+	"$edgesoftnessend"	".46"
+	"$scaleedgesoftnessbasedonscreenres" "1"
+}

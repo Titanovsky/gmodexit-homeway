@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/serioussam2/weapons/colt/colt_ingame"
+	"$bumpmap" "models/serioussam2/weapons/colt/colt_ingame_normalmap"
+	
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[.15 .15 .15]"
+	
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" "2"
+	"$phongfresnelranges" "[1 1 1]"
+}

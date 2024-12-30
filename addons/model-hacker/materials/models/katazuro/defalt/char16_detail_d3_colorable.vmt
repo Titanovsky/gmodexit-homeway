@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/katazuro/defalt/char16_detail_d3_colorable"
+	"$selfillum" 1
+	"$blendtintbybasealpha" 0
+ 	"$blendtintcoloroverbase" 1
+	
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+		}
+	}
+}

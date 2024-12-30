@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\c_messure/messure"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.5 .5 .5]"
+
+	"$phong" "1"
+	//commented out to use the exponent mask
+	"$phongexponent" "255"
+	"$phongboost" "50"
+
+	"$basemapalphaphongmask" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "2"
+	"$rimlightboost" "25"
+}

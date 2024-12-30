@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Nier/Tuubiii/2b_hair2_dif"
+	"$bumpmap" "Nier/Tuubiii/2b_hair2_nrm"
+	
+	"$phongexponenttexture" "color/white"
+	"$phong" "1"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.1 1 1.0]"
+	
+	"$translucent" 1
+	"$halflambert" 1
+	"$nocull" 1
+	"$ambientocclusion" 1
+	
+}

@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/katazuro/defalt/char16_hood_d_high"
+	"$bumpmap" "models/katazuro/defalt/char16_hood_n_high"
+	"$phong" 1
+	"$phongboost" 10
+	"$phongexponent" 5
+	"$phongfresnelranges" "[1 1 1]"
+        "$nocull"              "1"
+
+}

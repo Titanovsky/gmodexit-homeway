@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+
+	"$baseTexture"			"props_casino/wheel_of_luck/bonuswheel_diffuse"
+
+	"$bumpMap"				"props_casino/wheel_of_luck/bonuswheel_normal"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "Metal"
+	"$model" 1
+}

@@ -1,0 +1,22 @@
+"UnlitTwoTexture"
+{
+	"$basetexture" "models/serioussam2/weapons/uzi/bomblogo"
+	"$texture2" "models/serioussam2/weapons/display_noise2"
+	"$color2" "[.25 4 .25]"
+	"Proxies"
+	{
+		"Sine"
+		{
+			"sineperiod" .2
+			"sinemin" "1"
+			"sinemax" "1.25"
+			"resultVar" "$color"
+		}
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" 14
+			"texturescrollangle" 2
+		}
+	}
+}

@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/serioussam2/weapons/seriousbomb/bomb"
+	"$color2" "[20 0 0]"
+}

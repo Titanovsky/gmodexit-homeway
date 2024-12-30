@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/serioussam2/weapons/grenadelauncher/ammo"
+	"$bumpmap" "models/serioussam2/weapons/grenadelauncher/ammo_normalmap"
+	
+	"$phong" "1"
+	"$phongexponent" "80"
+	"$phongboost" "2"
+	"$phongfresnelranges" "[0.1 0.5 1]"
+}

@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\eft\backpacks\mats\backpack_gorka_d"
+	"$bumpmap" "models\eft\backpacks\mats\backpack_gorka_n"
+
+	"$phong" "1"
+	"$phongexponenttexture" "models\eft\backpacks\mats\backpack_gorka_g"
+//	"$phongalbedotint" "1"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[.3 .3 .3]"
+}

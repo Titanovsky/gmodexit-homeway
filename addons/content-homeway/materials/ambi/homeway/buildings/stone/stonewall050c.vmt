@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"Stone/stonewall050c"
+	"%keywords"		"c17downtown"
+	"$detail"		"detail\noise_detail_01"
+	"$detailscale"		"7.345000"
+	"$detailblendfactor"		"0.800000"
+	"$detailblendmode"		"0"
+	"$model"		"1"
+}

@@ -1,0 +1,6 @@
+net.AddString( 'ambi_boombox_open_menu' )
+net.AddString( 'ambi_boombox_play_radio' )
+net.AddString( 'ambi_boombox_play_radio_sync' )
+net.AddString( 'ambi_boombox_close_menu' )
+net.AddString( 'ambi_boombox_stop' )
+net.AddString( 'ambi_boombox_stop_sync' )

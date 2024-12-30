@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "halloween/shelf/shelf" // Chemin de la texture de la table
+
+    // Paramètres facultatifs
+    "$surfaceprop" "wood" // Propriété de surface (vous pouvez ajuster en fonction de votre texture)
+    "$model" "1" // Modèle sans lissage
+    "$illumposition" "[0 0 72]" // Position d'illumination (ajustez la hauteur)
+
+    // Paramètres pour l'ombrage et la réflexion
+    "$ambientocclusion" "1" // Active l'occlusion ambiante
+    "$envmap" "env_cubemap" // Carte d'environnement pour les réflexions
+    "$envmapcontrast" "1" // Contraste de la carte d'environnement
+    "$envmapsaturation" "1" // Saturation de la carte d'environnement
+    "$envmaptint" "[255 255 255]" // Tint de la carte d'environnement (blanc par défaut)
+}

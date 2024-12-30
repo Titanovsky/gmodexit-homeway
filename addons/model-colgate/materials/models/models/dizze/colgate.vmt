@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/models/dizze/colgate"
+        "$surfaceprop" "Flesh"
+        "$bumpmap" "models/models/dizze/colgate_normal"
+}

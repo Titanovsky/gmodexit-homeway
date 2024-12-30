@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/gonzo/weedb/water_jar"
+	"$bumpmap" "models/gonzo/weedb/water_jar_normal"
+	"$phong"		"1"
+	"$phongexponent"		"30"
+	"$phongboost"		"1"
+	"$phongfresnelranges"		"[.25 .5 1]"
+	"$rimlight"		"1"
+	"$rimlightexponent"		"10"
+	"$rimlightboost"		"10"
+
+}

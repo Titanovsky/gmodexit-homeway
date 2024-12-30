@@ -1,0 +1,71 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "halloween/textures/lava/lava"
+	"$surfaceprop" "lava"
+	"%keywords" "rock"
+	
+		"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" .1
+			"texturescrollangle" 270
+		}
+
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$detail"
+			"animatedtextureframenumvar" "$detailframe"
+			"animatedtextureframerate" 30
+		}
+
+
+		"YellowLevel"
+		{
+			"resultVar" "$yellow"
+		}
+
+		"Equals"
+		{
+			"srcVar1" "$yellow"
+			"resultVar" "$color2"
+		}
+
+// ------------------------- where the magic happens
+
+		"Sine"
+		{
+			"sineperiod" "3"
+			"sinemin" ".0015"
+			"sinemax" ".005"
+			"resultVar" "$selfillumfresnelminmaxexp[1]"
+		}
+		
+		"Sine"
+		{
+			"sineperiod" "2"
+			"sinemin" "1"
+			"sinemax" "1"
+			"resultVar" "$selfillumfresnelminmaxexp[3]"
+		}
+
+// FIRE! FIRE! FIIIIIRRRREEE!		
+		"Sine"
+		{
+			"sineperiod" "3"
+			"sinemin" "0.01"
+			"sinemax" ".1"
+			"resultVar" "$detailblendfactor"
+		}
+		
+		"Sine"
+		{
+			"sineperiod" "1"
+			"sinemin" "15"
+			"sinemax" "10"
+			"resultVar" "$rimlightboost" 
+		}
+	}
+}
+}

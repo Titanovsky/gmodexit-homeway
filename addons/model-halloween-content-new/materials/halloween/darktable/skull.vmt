@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "halloween/darktable/skull"
+	    $selfillum 1
+    $selfillummask "halloween/darktable/skull_emi"
+}

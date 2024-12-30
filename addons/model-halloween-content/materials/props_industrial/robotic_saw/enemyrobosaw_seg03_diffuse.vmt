@@ -1,0 +1,30 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"props_industrial/robotic_saw/enemyrobosaw_seg03_diffuse"
+	"$selfIllum"			0
+	"$translucent"			0
+	"$alphatest"			1
+	"$bumpMap"				"props_industrial/robotic_saw/enemyrobosaw_seg03_normal"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "Metal"
+	"$model" 1
+		
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.25 0.25 0.25]"
+	
+	$phong 1
+
+        $phongexponent 100
+        $phongboost 1
+        $phongtint "[1 1 1]"
+        $phongfresnelranges "[4 4 4]"
+	
+	
+		$rimlight               1
+		$rimlightexponent       0.25
+		$rimlightboost          4	
+		$phongexponenttexture	"props_industrial/robotic_saw/enemyrobosaw_seg03_normal"
+}
+// Created With MESA 2.1 by www.puppet-master.net

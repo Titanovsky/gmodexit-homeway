@@ -1,0 +1,31 @@
+"UnlitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"props_halloween/cobweb"
+	"$model" 1
+	"$translucent"			1
+	//"$alphatest"			1
+	"$nocull" 				1 
+	"$allowalphatocoverage" 1
+	"$additive" 	1
+
+	
+	$offset 1 // declare custom var
+ 
+	Proxies
+	{
+		EntityRandom
+		{
+			resultVar $offset // write to custom var
+		}
+		Sine
+		{
+			resultVar	$alpha
+			timeoffset	$offset // read from custom var
+			sineperiod	5
+			sinemin		0.1
+			sinemax		1
+		}
+	}
+	
+}

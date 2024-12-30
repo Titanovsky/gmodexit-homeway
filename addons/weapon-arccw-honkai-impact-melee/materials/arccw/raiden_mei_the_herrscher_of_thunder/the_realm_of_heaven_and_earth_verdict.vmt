@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "arccw/raiden_mei_the_herrscher_of_thunder/the_realm_of_heaven_and_earth_verdict"
+	"$lightwarptexture" "arccw/raiden_mei_the_herrscher_of_thunder/basewarp"
+         "$bumpmap" "arccw/raiden_mei_the_herrscher_of_thunder/normal"
+        "$nocull" 1
+	"$nodecal" 1
+	"$phong" "1"
+	"$phongboost"	".02"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "1.0"
+	"$halflambert" "1"
+	"$selfillum" "1"
+}
+
+

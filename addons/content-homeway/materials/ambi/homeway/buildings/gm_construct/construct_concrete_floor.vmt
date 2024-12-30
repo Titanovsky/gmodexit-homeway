@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexturetransform"		"center .5 .5 scale 1.2 1.2 rotate 0 translate 0 0"
+	"$bumptransform"		"center .5 .5 scale 1.2 1.2 rotate 0 translate 0 0"
+	"$basetexture"		"gm_construct/construct_concrete_floor"
+	"$color2"		"[0.84 0.83 0.82]"
+	"$detail"		"detail\noise_detail_01"
+	"$detailscale"		"4"
+	"$detailblendfactor"		"0.600000"
+	"$detailblendmode"		"0"
+	"%keywords"		"gm_construct"
+	"$model"		"1"
+}

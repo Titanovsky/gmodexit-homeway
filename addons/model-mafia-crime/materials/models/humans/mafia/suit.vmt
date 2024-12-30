@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\humans/mafia/suit"
+	"$bumpmap" "models\humans/mafia/suit_n"
+	//"$phong" "1"
+	"$phongexponent" "10"
+	"$phongexponenttexture" "models\humans/mafia/suit_exp"
+	"$phongboost" "2"	
+	"$phongfresnelranges"	"[.05 0.1 0.5]"
+
+}

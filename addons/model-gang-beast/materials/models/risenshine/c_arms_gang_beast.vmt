@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/risenshine/gang_beast_dark.vtf"
+	"$surfaceprop" "Flesh"
+	"$halflambert" "1"
+	
+	"$blendtintbybasealpha" "1" 
+	"$blendtintcoloroverbase" "0"
+
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default 0.75 0.75 0.75
+		}
+	}
+}

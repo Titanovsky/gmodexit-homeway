@@ -1,0 +1,1 @@
+Ambi.CreateModule( 'Privilege' )

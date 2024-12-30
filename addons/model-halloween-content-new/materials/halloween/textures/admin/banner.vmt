@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "halloween/textures/admin/banner"
+	"$translucent" 1
+	"$decal" 1
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"%keywords" "admin"
+	$selfillum "0"
+    $selfillummask "halloween/textures/admin/banner_emissive"
+}

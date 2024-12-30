@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/serioussam2/weapons/sniper/sniperarrow"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

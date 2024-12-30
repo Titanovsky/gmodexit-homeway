@@ -1,0 +1,52 @@
+"UnlitGeneric"
+{
+	"$basetexture" "effects/serioussam2/lightning_flare"
+	"$nocull" 1
+	"$additive" 1
+	
+	"$angle" 0
+	"$translate" "[0 0]"
+	"$center" "[.5 .5]"
+	"$scale" "[1 1]"
+	
+	$sine1 0
+	$sine2 0
+	"Proxies"
+	{
+		"Sine"
+		{
+			"sineperiod" 0.67
+			"sinemin" "0.25"
+			"sinemax" "0.65"
+			"resultVar" "$sine1"
+		}
+		"Sine"
+		{
+			"sineperiod" .08
+			"sinemin" "-.05"
+			"sinemax" ".05"
+			"resultVar" "$sine2"
+		}
+		"Sine"
+		{
+			"sineperiod" -0.67
+			"sinemin" ".8"
+			"sinemax" "1"
+			"resultVar" "$scale"
+		}
+		add
+		{
+			srcvar1 $sine1
+			srcvar2 $sine2
+			resultvar "$color2"
+		}
+		"TextureTransform"
+		{
+			"translateVar" "$translate"
+			"rotateVar" "$angle"
+			"scaleVar" "$scale"
+			"centerVar" "$center"
+			"resultVar" "$basetexturetransform"
+		}
+	}
+}

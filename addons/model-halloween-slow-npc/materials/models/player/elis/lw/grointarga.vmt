@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	
+	"$basetexture" "models/player/elis/lw/grointarga"
+	"$translucent" "1"
+}

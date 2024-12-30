@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Death_Note/pen1"
+	"$bumpmap" "models/Death_Note/pen_bump"
+	"$halflambert" 1
+	"$phong" "1"
+	"$phongexponent" 50
+	"$phongboost"	"10"
+	"$phongfresnelranges"	"[0.3 0.3 0.3]
+}

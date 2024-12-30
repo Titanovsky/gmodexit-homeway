@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"props_firework/mortartube_design_01"
+	"$alphatest"			1
+	"$model" 1
+	
+	"$bumpMap"				"props_firework/mortar_tube_base_normal"
+}

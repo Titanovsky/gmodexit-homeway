@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$model" "1"
+	"$basetexture" "models/risenshine/gang_beast_eye.vtf"
+	"$surfaceprop" "Flesh"
+	"$halflambert" "1"
+}

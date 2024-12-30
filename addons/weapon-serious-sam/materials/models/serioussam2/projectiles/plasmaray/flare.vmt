@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/serioussam2/projectiles/plasmaray/flare_blue"
+	"$additive" 1
+	"$nocull" 1
+}

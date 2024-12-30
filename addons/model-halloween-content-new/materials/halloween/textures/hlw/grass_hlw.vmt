@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{    
+    $basetexture "halloween/textures/hlw/grass_hlw"
+		"$surfaceprop" "grass"
+		"%keywords" "Ground"
+}

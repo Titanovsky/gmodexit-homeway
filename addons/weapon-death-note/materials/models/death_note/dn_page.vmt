@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Death_Note/DN_page"	
+	"$bumpmap" "models/Death_Note/DN_pagebump"
+	"$halflambert" 1
+}

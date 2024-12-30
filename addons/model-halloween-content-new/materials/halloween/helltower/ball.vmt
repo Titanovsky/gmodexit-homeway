@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "halloween/HellTower/Ball"
+		$selfillum 1
+    $selfillummask "halloween/HellTower/Ball_Emissive"
+}

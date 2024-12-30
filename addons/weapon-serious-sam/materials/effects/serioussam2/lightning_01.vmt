@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "effects/serioussam2/lightning_01"
+	"$color2" "[3 3 3]"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+	"$additive" 1
+}

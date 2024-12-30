@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "particles/effects/blueflare1"
+	"$additive" "1"
+	"$vertexcolor" 1
+}

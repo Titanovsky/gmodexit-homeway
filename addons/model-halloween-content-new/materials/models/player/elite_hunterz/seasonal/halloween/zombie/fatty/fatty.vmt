@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models/player/elite_hunterz/seasonal/halloween/zombie/fatty/fatty"
+	 "$envmap" 			"env_cubemap"
+	 "$bumpmap" "models/player/elite_hunterz/seasonal/halloween/zombie/fatty/fatty_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmapcontrast" 0.3
+	"$envmapsaturation" 0.7
+	"$envmaptint" "[ 0.36 0.36 0.36 ]"
+}

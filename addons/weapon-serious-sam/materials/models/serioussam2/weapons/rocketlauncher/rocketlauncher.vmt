@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/serioussam2/weapons/rocketlauncher/r_launcher"
+	"$bumpmap" "models/serioussam2/weapons/rocketlauncher/r_launcher_normalmap"
+	
+	"$phong" "1"
+	"$phongexponent" "60"
+	"$phongboost" ".5"
+	"$phongfresnelranges" "[1 1 1]"
+}

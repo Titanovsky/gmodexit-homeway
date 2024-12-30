@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	
+	"$basetexture" "models/player/elis/lw/new_ww_body2"
+	"$bumpmap" "models/player/elis/lw/werewolf_normal"
+
+}

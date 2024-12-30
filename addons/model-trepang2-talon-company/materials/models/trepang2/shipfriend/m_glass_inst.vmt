@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/trepang2/shipfriend/glass2"
+	"$bumpmap" "models/trepang2/shipfriend/nglass"
+	"$translucent" 1
+	"$phong" 1
+	"$phongboost" "1.5"
+	"$phongalbedotint" "1"
+	"$phongexponent"	"50"
+	"$phongtint"	"[0.75 0.75 0.80]"
+
+	$color2				"[1 1 1]"
+	$envmap				env_cubemap
+	$envmaptint 		"[1 1 1]"
+
+
+
+	"$phongfresnelranges"	"[0.3 1 4]"
+	"$phongdisablehalflambert" "1"
+
+}

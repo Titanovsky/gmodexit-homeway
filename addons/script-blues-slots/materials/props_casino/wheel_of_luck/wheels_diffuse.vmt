@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"props_casino/wheel_of_luck/wheels_diffuse"
+	"$selfIllum"			0
+	"$translucent"			0
+	"$alphatest"			1
+	"$bumpMap"				"props_casino/wheel_of_luck/wheels_normal"
+}
+// Created With MESA 2.1 by www.puppet-master.net

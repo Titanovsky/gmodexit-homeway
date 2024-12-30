@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/serioussam2/weapons/circularsaw/body"
+	"$bumpmap" "models/serioussam2/weapons/circularsaw/body_normalmap"
+	
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[.05 .05 .05]"
+	
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" ".5"
+	"$phongfresnelranges" "[1 1 3]"
+}

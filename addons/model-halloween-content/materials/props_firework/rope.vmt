@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"props_firework/rope"
+	"$alphatest"			1
+	"$model" 1
+	
+	"$bumpMap"				"props_firework/rope_normal"
+	"$normalmapalphaenvmapmask" "1"
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "characters\todd\gman_sheet_fbi_b"
+//	"$bumpmap" "characters\todd\gman_sheet_af_gen_norm"
+//	"$envmap" "env_cubemap"
+//	"$normalmapalphaenvmapmask" "1"
+}

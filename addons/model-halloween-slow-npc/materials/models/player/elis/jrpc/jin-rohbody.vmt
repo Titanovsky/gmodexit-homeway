@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/player/elis/jrpc/jin-rohbody"
+	"$bumpmap" "models/player/elis/jrpc/jin-rohbody-normal"
+	"$surfaceprop" "flesh"	
+}

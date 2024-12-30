@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$color2" "[0.7 0.7 0.7]"
+	//"$blendtintbybasealpha" "1"
+	//"$blendtintcoloroverbase" "0"
+
+	"$baseTexture"			"props_casino/wheel_of_luck/genericlight01"
+	"$surfaceprop" "Glass"
+	"$model" 1
+	"$alphatest"			1
+	$nocull 1
+	//$translucent 1
+	
+}

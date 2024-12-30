@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/player/elis/am/alma_d"
+	"$halflambert" 1
+        "$bumpmap" "models/player/elis/am/alma_n" 
+     
+} 

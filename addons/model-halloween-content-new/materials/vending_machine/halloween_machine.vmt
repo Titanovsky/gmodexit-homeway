@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"vending_machine\halloween_machine"
+	"$selfillum" "1"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "vending_machine\halloween_machine_ref"
+
+}

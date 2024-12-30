@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$color"				"[0 0 0]"
+	"$baseTexture"			"props_casino/wheel_of_luck/full_black"
+	"$alphatest"			1
+}

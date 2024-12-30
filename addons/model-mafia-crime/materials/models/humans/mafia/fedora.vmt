@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\humans/mafia/fedora"
+	"$bumpmap" "models\humans/mafia/fedora_n"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "2"	
+	"$phongfresnelranges"	"[.05 0.1 0.5]"
+}

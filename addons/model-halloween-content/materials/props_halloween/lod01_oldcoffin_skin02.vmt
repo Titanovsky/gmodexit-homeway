@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"props_halloween/lod01_oldcoffin_skin02"
+	"$surfaceprop" "Wood"
+	"$model" 1
+	
+}

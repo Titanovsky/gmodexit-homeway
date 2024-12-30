@@ -1,0 +1,22 @@
+"UnlitTwoTexture"
+{
+	"$basetexture" "models/serioussam2/weapons/display_broken"
+	"$texture2" "models/serioussam2/weapons/noise"
+	"$color2" "[1.1 .9 .25]"
+	"Proxies"
+	{
+		"Sine"
+		{
+			"sineperiod" .1
+			"sinemin" "1"
+			"sinemax" "1.1"
+			"resultVar" "$color"
+		}
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" -14
+			"texturescrollangle" 1
+		}
+	}
+}

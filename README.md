@@ -1,2 +1,3 @@
 # gmodexit-homeway
-GmodExit2025
+
+Официальная сборка Homeway (от 30 декабря 2024)

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/elis/ep/head_hood_inner"
+	"$model" 1
+}

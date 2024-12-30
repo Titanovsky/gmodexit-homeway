@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models/grinchfox/foliage/pinewood01"
+	$bumpmap "models/grinchfox/foliage/pinewood01_normal"
+}

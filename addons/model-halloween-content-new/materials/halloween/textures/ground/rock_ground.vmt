@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{    
+    $basetexture "halloween/textures/ground/rock_ground"
+		"$surfaceprop" "brick"
+		"%keywords" "Rock"
+}

@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "halloween2015/models/pumbkins/pumbkin_00/pumbkin_details"
+	"$surfaceprop" "watermelon"
+	"$model" 1
+	"$nocull" 1
+	"$alphatest" 1
+}

@@ -1,0 +1,49 @@
+"MonitorScreen"
+{
+	"$color2" "[1 0.65 0]"
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0"
+
+	"$baseTexture"			"props_fairground/360spinride/genericlight01"
+	"$surfaceprop" "Glass"
+	"$model" 1
+
+	$nocull 1
+	$translucent 1
+	//$additive 1
+	
+	"$offset" "0"	
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+		"animatedTextureVar" "$basetexture"
+		"animatedTextureFrameNumVar" "$frame"
+		"animatedTextureFrameRate" "6"
+		}
+		
+		"EntityRandom"
+        {
+            "scale" "12"
+            "resultVar" "$offset"
+        }
+        "Sine"
+        {
+            "sineperiod" 2
+            "timeoffset" "$offset"
+            "resultVar" "$color2[0]"
+        }
+        "Sine"
+        {
+            "sineperiod" 4
+            "timeoffset" "$offset"
+            "resultVar" "$color2[1]"
+        }
+        "Sine"
+        {
+            "sineperiod" 8
+            "timeoffset" "$offset"
+            "resultVar" "$color2[2]"
+        }
+	}
+}

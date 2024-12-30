@@ -1,0 +1,9 @@
+UnlitGeneric
+{
+	"$baseTexture" "halloween/textures/admin/elite_hunter_deco"
+	"$translucent" 1
+	"$decal" 1
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"%keywords" "admin"
+}

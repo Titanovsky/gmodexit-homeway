@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/serioussam2/weapons/beamgun/lightning_04"
+	"$nocull" 1
+	"$color2" "[.8 .8 .8]"
+	"$additive" 1
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" -15
+			"texturescrollangle" 90
+		}
+	}
+}

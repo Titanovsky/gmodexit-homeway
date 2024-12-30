@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/serioussam2/weapons/cannon/cannon"
+	"$bumpmap" "models/serioussam2/weapons/cannon/cannon_normalmap"
+	"$color2" "[.7 .7 .7]"
+	
+	"$phong" "1"
+	"$phongexponent" "40"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[.1 1 3]"
+}

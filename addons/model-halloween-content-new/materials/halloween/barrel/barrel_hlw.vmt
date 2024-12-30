@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "halloween/barrel/Barrel_hlw"
+	$selfillum 1
+    $selfillummask "halloween/barrel/barrel_emi"
+}

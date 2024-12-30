@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/player/elis/po/NYPD_Legs_A"
+        "$envmap" 			"env_cubemap"
+        "$bumpmap" "models/player/elis/po/NYPD_Legs_A_n"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 0.3
+	"$envmapsaturation" 0.7
+	"$envmaptint" "[ 0.36 0.36 0.36 ]"
+}
+

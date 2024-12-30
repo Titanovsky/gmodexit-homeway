@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/grinchfox/foliage/christmastree_star"
+	"$selfillum" 1
+	"$surfaceprop" "metal"
+	"$bumpmap" "models/grinchfox/foliage/christmastree_star_normal"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmaptint" "[ 1.5 1.2 0 ]"
+	"$model" 1
+}

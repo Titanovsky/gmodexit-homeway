@@ -1,0 +1,33 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "halloween2015/models/pumbkins/pumbkin_00/pumbkin_00_F10_skin2"
+	"$surfaceprop" "watermelon"
+	
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.01 0.01 0.01]"
+
+	
+	"$bumpmap" "halloween2015/models/pumbkins/pumbkin_00/pumbkin_00_F10_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$model" 1
+
+	
+	$selfillum 1
+    $selfillummask "halloween2015/models/pumbkins/pumbkin_00/pumbkin_00_F10_light"
+	
+
+	$phong 1
+
+        $phongexponent 600
+        $phongboost 1
+        $phongtint "[1 1 1]"
+        $phongfresnelranges "[4 4 4]"
+	
+	
+		$rimlight               1
+		$rimlightexponent       0.25
+		$rimlightboost          2	
+		$phongexponenttexture	 "halloween2015/models/pumbkins/pumbkin_00/pumbkin_00_F10_nrm"
+	
+}

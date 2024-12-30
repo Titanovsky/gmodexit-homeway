@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "halloween/three/ThreeHallow"
+	"$bumpmap" 	"halloween/three/ThreeHallow_normal"
+}

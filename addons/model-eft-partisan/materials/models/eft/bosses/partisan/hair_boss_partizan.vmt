@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\eft\bosses\partisan\mats\hair_boss_partizan_d"
+	"$bumpmap" "models\eft\bosses\partisan\mats\blank"
+
+	"$alphatest" 1
+	"$alphatestreference" 0.55
+	"$allowalphatocoverage" 1
+	
+//	"$translucent" 1
+
+	"$phong" "1"
+//	"$phongexponenttexture" "models\eft\bosses\partisan\mats\top_boss_partizan_g"
+//	"$phongexponent" 32
+//	"$phongalbedotint" "1"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[.3 .3 .3]"
+}

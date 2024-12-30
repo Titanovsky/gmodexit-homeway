@@ -1,0 +1,14 @@
+"Vertexlitgeneric"
+{
+	"$surfaceprop" "glass"
+	"$baseTexture" "models/weapons/arccw/gauss_rifle/lense_d"
+	"$bumpmap" "models/weapons/arccw/gauss_rifle/lense_N"
+	"$normalmapalphaenvmapmask" "1"
+
+	"$chrome" "1"
+	"$translucent" "1"
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" ".5"
+	"$phongfresnelranges" "[.9 1.5 1]"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/serioussam2/weapons/klodovik/klodovik"
+	"$nocull" 1
+	"$alphatest" 1
+}

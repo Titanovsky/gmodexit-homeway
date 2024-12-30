@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"props_fairground/gamesign_01"
+
+	
+	"$surfaceprop" "Wood"
+	"$model" 1
+		
+	
+}

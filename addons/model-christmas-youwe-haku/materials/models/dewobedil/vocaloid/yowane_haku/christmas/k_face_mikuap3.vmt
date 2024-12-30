@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/dewobedil/vocaloid/yowane_haku/christmas/k_face_MikuAp3"
+	"$nodecal" 1
+	"$translucent" 1
+	"$bumpmap" "models/dewobedil/vocaloid/yowane_haku/christmas/normal"
+
+	"$lightwarptexture" "models/dewobedil/vocaloid/yowane_haku/christmas/toon_face"
+}

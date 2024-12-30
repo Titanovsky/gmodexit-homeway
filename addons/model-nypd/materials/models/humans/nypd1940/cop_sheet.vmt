@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/humans/NYPD1940/cop_sheet"
+	"$bumpmap" "models/humans/NYPD1940/cop_sheet_n"
+	"$halflambert" 1
+}

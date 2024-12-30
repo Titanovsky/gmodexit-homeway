@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	
+	"$basetexture" "models/player/elis/lw/weretongue"
+	"$envmapcontrast" .9
+	"$envmapsaturation" 0
+
+}

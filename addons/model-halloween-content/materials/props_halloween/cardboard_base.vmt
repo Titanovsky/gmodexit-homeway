@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"props_halloween/cardboard_base"
+	"$bumpMap"				"props_halloween/cardboard_base_normal"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "cardboard"
+	"$model" 1
+
+	//$color2 "{ 249 56 38 }"
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0.1"
+	
+	
+	$phong 1
+
+        $phongexponent 15
+        $phongboost 1
+        $phongtint "[0.25 0.25 0.25]"
+        $phongfresnelranges "[4 4 4]"
+		$phongexponenttexture	"props_halloween/cardboard_base_normal"
+}

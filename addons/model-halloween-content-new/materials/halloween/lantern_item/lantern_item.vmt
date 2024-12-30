@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "halloween/lantern_item/lantern_item"
+	    $selfillum 1
+    $selfillummask "halloween/lantern_item/lantern_item_emissive"
+}

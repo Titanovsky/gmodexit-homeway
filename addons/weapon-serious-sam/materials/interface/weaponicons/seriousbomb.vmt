@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "interface/weaponicons/seriousbomb"
+	"$translucent" "1"
+	"$vertexcolor" "1"
+}

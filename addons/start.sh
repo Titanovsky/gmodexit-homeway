@@ -1,0 +1,1 @@
+~/homeway/srcds_run -game garrysmod -port 27017 +map rp_bangclaw_drp_winter_v1 +maxplayers 100 +gamemode darkrp +sv_setsteamaccount none

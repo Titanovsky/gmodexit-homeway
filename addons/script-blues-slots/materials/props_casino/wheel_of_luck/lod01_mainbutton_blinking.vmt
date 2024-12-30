@@ -1,0 +1,20 @@
+"MonitorScreen"
+{
+
+	"$baseTexture"			"props_casino/wheel_of_luck/mainbutton_blinking"
+
+	"$surfaceprop" "Metal"
+	"$model" 1
+	
+	"$selfillum" 			"1"
+
+	"Proxies"
+	{
+	"AnimatedTexture"
+	{
+	"animatedTextureVar" "$basetexture"
+	"animatedTextureFrameNumVar" "$frame"
+	"animatedTextureFrameRate" "4"
+	}
+	}		
+}

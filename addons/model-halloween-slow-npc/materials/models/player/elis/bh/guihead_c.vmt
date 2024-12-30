@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/player/elis/bh/guihead_C"
+	"$halflambert" 1
+	"$bumpmap" "models/player/elis/bh/guihead_N"
+	"$normalmapalphaenvmapmask" 1
+}

@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models/player/elis/helmet_d"
+	"$bumpmap" "models/player/elis/helmet_d_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$surfaceprop" "flesh"
+
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"props_casino/wheel_of_luck/led_screens"
+	"$selfIllum"			0
+	"$translucent"			0
+	"$alphatest"			1
+}

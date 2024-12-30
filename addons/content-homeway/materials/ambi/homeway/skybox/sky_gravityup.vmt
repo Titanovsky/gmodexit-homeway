@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "ambi/homeway/skybox/sky_gravityup"
+	"$ignorez" "1"
+	"$nofog" "1"
+}

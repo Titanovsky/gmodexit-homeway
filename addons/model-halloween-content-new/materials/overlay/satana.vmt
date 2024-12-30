@@ -1,0 +1,11 @@
+UnlitGeneric
+{    
+    $basetexture "overlay/satana"
+	$selfillum 1
+    $selfillummask "overlay/satana_emissive"
+	"$translucent" 1
+	"$decal" 1
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"%keywords" "satana"
+}

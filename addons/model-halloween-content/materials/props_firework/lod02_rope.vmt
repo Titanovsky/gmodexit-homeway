@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"props_firework/lod02_rope"
+	"$alphatest"			1
+	"$model" 1
+}

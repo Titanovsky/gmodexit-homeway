@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/arccw/gauss_rifle/scope_m"
+	"$phong" "1"
+	"$phongexponent" "50"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[1 3 6]"
+
+	"$translucent" "1"
+}

@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	$basetexture "grinchfox/rope/tinsel_red"
+	$vertexcolor 1
+	$alphatest 1
+}

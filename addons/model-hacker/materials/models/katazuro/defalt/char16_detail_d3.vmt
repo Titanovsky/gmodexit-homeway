@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/katazuro/defalt/char16_detail_d3"
+	"$selfillum" 1
+}

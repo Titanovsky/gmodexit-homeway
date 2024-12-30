@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/serioussam2/weapons/beamgun/hose"
+	"$bumpmap" "models/serioussam2/weapons/beamgun/hose_normalmap"
+	
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.6 .6 .6]"
+	
+	"$phong" "1"
+	"$phongexponent" "60"
+	"$phongboost" "5"
+	"$phongfresnelranges" "[1 1 3]"
+}

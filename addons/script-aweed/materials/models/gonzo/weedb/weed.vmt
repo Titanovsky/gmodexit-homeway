@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/gonzo/weedb/weed"
+	"$bumpmap" "models/gonzo/weedb/weed_normal"
+	"$lightwarptexture"		"models/gonzo/weedb/pyro_lightwarp"
+	"$phong"		"1"
+	"$phongexponent"		"25"
+	"$phongboost"		"0.100000"
+	"$phongfresnelranges"		"[.25 .5 1]"
+	"$rimlight"		"1"
+	"$rimlightexponent"		"4"
+	"$rimlightboost"		"2"
+	"$colortint_tmp"		"[0 0 0]"
+	"$bumpmapalphaphongmask"		"1"
+}

@@ -1,0 +1,22 @@
+VertexLitGeneric
+{
+	$basetexture		"models/trepang2/shipfriend/M_BallisticShield_GlassNew_Inst.vtf"
+
+	$nodecal			1
+	$translucent		1
+
+	"$bumpmap" "models/trepang2/shipfriend/T_Scratches_n"
+	$color2				"[1 1 1]"
+	$envmap				env_cubemap
+	$envmapsaturation	0.5
+	$envmaptint 		"[.5 .5 .5]"
+
+	Proxies
+	{
+		Equals
+		{
+			srcVar1		$color2
+			resultVar	$color
+		}
+	}
+}

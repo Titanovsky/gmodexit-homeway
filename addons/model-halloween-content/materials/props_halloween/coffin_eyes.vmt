@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"props_halloween/coffin_eyes"
+	"$alphatest"			1
+	$translucent 1
+	"$model" 1
+	$additive 1
+	$selfillum 1
+}

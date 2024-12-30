@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Nier/Tuubiii/2b_feather"
+	
+	"$phongexponenttexture" "color/white"
+	"$phong" "1"
+	"$phongboost"	"0"
+	"$phongfresnelranges"	"[0.1 1 1.0]"
+	
+	"$translucent" 1
+	"$halflambert" 1
+	"$nocull" 1
+	"$ambientocclusion" 1
+	
+}

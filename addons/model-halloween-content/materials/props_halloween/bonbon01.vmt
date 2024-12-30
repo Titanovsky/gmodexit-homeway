@@ -1,0 +1,28 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"props_halloween/bonbon01"
+	"$bumpMap"				"props_halloween/bonbon_normal"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "cardboard"
+	"$model" 1
+
+	//$color2 "{ 249 56 38 }"
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0.1"
+	
+	//$selfillum 1
+   // $selfillummask "halloween2015/models/pumbkins/pumbkin_01_item_light"
+	//$selfillumtint "[2 2 2]"
+	
+	$phong 1
+    $phongexponent 15
+    $phongboost 1
+    $phongtint "[0.25 0.25 0.25]"
+    $phongfresnelranges "[4 4 4]"
+	$phongexponenttexture	"props_halloween/bonbon_normal"
+	
+	$rimlight               1
+	$rimlightexponent       0.25
+	$rimlightboost          6	
+}

@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"props_firework/fireworkbox"
+	"$model" 1
+
+	"$bumpMap"				"props_firework/fireworkbox_normal"
+	"$normalmapalphaenvmapmask" "1"
+	
+	
+	$phong 1
+
+        $phongexponent 5
+        $phongboost 4
+        $phongtint "[1 1 1]"
+        $phongfresnelranges "[0.5 0.5 0.5]"
+	
+	
+		$rimlight               1
+		$rimlightexponent       0.25
+		$rimlightboost          1	
+		$phongexponenttexture	"props_firework/fireworkbox_normal"
+}

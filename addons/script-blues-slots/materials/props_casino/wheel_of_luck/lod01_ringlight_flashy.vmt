@@ -1,0 +1,20 @@
+"MonitorScreen"
+{
+	"$baseTexture"			"props_casino/wheel_of_luck/ringlight_flashy_64"
+
+	"$surfaceprop" "Metal"
+	"$model" 1
+	
+		
+	"$selfillum" 			"1"
+
+	"Proxies"
+	{
+	"AnimatedTexture"
+	{
+	"animatedTextureVar" "$basetexture"
+	"animatedTextureFrameNumVar" "$frame"
+	"animatedTextureFrameRate" "24"
+	}
+	}
+}

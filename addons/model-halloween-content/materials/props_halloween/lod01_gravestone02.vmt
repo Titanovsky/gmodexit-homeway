@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"props_halloween/gravestone02"
+
+	"$surfaceprop" "concrete_block"
+	"$model" 1
+
+}

@@ -1,0 +1,7 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/models_kit/xmas/giftbox_skin5"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "models/models_kit/xmas/giftbox_skin5_NORM"
+}

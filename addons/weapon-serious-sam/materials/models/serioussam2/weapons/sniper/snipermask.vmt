@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/serioussam2/weapons/sniper/snipermask"
+	"$translucent" 1
+}

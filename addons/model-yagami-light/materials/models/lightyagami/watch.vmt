@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/lightyagami/watch"
+	"$bumpmap" "models/lightyagami/watch_n"
+	"$nocull" "1"
+	"$phong" "1"
+	$phongboost .04
+	"$phongexponent" "15"
+	"$phongalbedotint" "1"
+	"$phongtint"                    "[.6 .8 1]"
+	"$phongfresnelranges"           "[1 2.5 7]"
+	$alphatest 1
+}

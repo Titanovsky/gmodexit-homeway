@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/risenshine/gang_beast_black.vtf"
+	"$surfaceprop" "Flesh"
+	"$halflambert" "1"
+}

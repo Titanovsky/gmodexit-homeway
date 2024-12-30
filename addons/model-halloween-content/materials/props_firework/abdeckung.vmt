@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"props_firework/abdeckung"
+	
+	"$bumpMap"				"props_firework/mortar_tube_base_normal"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$alphatest"			1
+	"$nocull"				1
+	"$model" 1
+
+}

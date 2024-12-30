@@ -1,0 +1,10 @@
+UnlitGeneric
+{
+	$basetexture "grinchfox/rope/cmlight_large"
+	$basetexturetransform "center .5 .5 scale 1 4 rotate 0 translate 0 0"
+	$nocull			1
+	$alphatest 1
+	$detail "grinchfox/rope/cmlight_selfillum"
+	$detailscale 1
+	$detailtexturetransform "center .5 .5 scale 0.01 4 rotate 0 translate 0 0"
+}

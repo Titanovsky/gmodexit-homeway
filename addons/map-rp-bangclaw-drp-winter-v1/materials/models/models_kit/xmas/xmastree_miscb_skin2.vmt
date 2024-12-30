@@ -1,0 +1,6 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/models_kit/xmas/xmastree_miscB_skin2"
+ 	"$envmap" "env_cubemap"
+	"$envmapmask" "models/models_kit/xmas/xmastree_miscB_spec"
+}

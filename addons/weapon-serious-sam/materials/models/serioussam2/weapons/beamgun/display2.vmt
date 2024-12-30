@@ -1,0 +1,28 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/serioussam2/weapons/beamgun/lightning_07"
+	"$color2" "[.4 .65 1]"
+	
+	"$angle" 90
+	"$translate" "[0 0]"
+	"$center" "[0.3 .5]"
+	"$scale" "[1 3]"
+
+	"Proxies"
+	{
+		"LinearRamp"
+		{
+			"rate" 1
+			"initialValue" 0
+			"resultVar" "$translate[1]"
+		}
+		"TextureTransform"
+		{
+			"translateVar" "$translate"
+			"rotateVar" "$angle"
+			"scaleVar" "$scale"
+			"centerVar" "$center"
+			"resultVar" "$basetexturetransform"
+		}
+	}
+}

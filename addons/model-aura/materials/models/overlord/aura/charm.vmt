@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Overlord\Aura\Charm"
+                "$alphatest" "1"
+
+	"$model" 1
+	"$nocull" 1
+                "$envmap" "models/Overlord/Aura/brushed_gold.hdr"
+
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost"	"1"
+                "$lightwarptexture" "models\Overlord\Aura\toon_c"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+}

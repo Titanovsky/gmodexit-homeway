@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "halloween/skybox/clock"
+	$selfillum 1
+    $selfillummask "halloween/skybox/clock_emi"
+}

@@ -1,0 +1,6 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/models_kit/xmas/xmastree_miscA"
+	"$alphatest" "1"
+	"$nocull" "1"
+}

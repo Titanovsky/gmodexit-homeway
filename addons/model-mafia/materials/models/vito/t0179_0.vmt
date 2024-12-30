@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Vito/t0179_0"
+	"$surfaceprop" "MetalGrate"
+	"$alphatest" 1
+}

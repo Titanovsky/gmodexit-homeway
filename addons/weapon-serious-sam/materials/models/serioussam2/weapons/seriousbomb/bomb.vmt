@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/serioussam2/weapons/seriousbomb/bomb"
+	"$bumpmap" "models/serioussam2/weapons/seriousbomb/bomb_normalmap"
+	"$selfillum" 1
+	"$selfillumtint" "[10 1 1]"
+	
+	"$phong" "1"
+	"$phongexponent" "50"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[1 1 1]"
+}

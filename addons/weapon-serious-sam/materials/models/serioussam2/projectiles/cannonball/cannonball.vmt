@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$color2" "[.15 .15 .15]"
+	"$bumpmap" "models/serioussam2/weapons/cannon/body_normalmap"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.75 .75 .75]"
+	"$envmapcontrast" 1.15
+	"$envmapsaturation" .05
+}

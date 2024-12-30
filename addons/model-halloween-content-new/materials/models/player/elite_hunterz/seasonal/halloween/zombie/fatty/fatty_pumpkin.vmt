@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models/player/elite_hunterz/seasonal/halloween/zombie/fatty/fatty_pumpkin"
+	"$bumpmap" "models/player/elite_hunterz/seasonal/halloween/zombie/fatty/fatty_pumpkin_normal"
+}

@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "effects/serioussam2/flares/flare_blueplasma"
+	"$additive" 1
+}

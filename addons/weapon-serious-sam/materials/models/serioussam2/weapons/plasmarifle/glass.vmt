@@ -1,0 +1,33 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/serioussam2/weapons/plasmarifle/plasma_blue"
+	"$color2" "[1 1 2]"
+	
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" .5
+	"$envmapcontrast" 1
+	
+	"$angle" 0.0
+	"$translate" "[0.0 0.0]"
+	"$center" "[0.15 0.9]"
+	"$scale" "[10 10]"
+
+	"Proxies"
+	{
+		"LinearRamp"
+		{
+			"rate" -5
+			"initialValue" 0.0
+			"resultVar" "$angle"
+		}
+
+		"TextureTransform"
+		{
+			"translateVar" "$translate"
+			"rotateVar" "$angle"
+			"scaleVar" "$scale"
+			"centerVar" "$center"
+			"resultVar" "$basetexturetransform"
+		}
+	}
+}

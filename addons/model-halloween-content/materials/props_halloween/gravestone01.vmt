@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"props_halloween/gravestone01"
+	
+	"$bumpMap"				"props_halloween/gravestone01_normal"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "concrete_block"
+	"$model" 1
+	
+
+	
+	$phong 1
+
+        $phongexponent 100
+        $phongboost 1
+        $phongtint "[0.1 0.1 0.1]"
+        $phongfresnelranges "[4 4 4]"
+	
+	
+		$rimlight               1
+		$rimlightexponent       0.25
+		$rimlightboost          1	
+		$phongexponenttexture	"props_halloween/gravestone01_normal"
+}

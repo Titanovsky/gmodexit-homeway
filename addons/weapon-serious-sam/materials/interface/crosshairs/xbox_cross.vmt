@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "interface/crosshairs/xbox_cross"
+	"$translucent" "1"
+	"$vertexcolor" "1"
+}

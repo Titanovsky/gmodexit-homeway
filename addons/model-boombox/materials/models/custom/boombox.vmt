@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+    $basetexture "models/custom/boombox"
+    $bumpmap "models/custom/boombox_nm"
+    $surfaceprop Plastic_Box
+
+    $envmap "env_cubemap"
+    $envmaptint "[0.0039 0.0039 0.0039]"
+    $envmapsaturation 0.98
+
+    $phong 1
+    $phongfresnelranges "[4 0.9 5]"
+    $phongexponent 6
+    $phongboost 0.06
+
+    $model 1
+}

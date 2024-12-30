@@ -1,0 +1,8 @@
+"darkrp"
+{
+	"base"		"sandbox"
+	"title"		"DarkRP"
+	"category"	"pvp"
+	"maps"		"^rp_"
+	"menusystem"	"1"
+}

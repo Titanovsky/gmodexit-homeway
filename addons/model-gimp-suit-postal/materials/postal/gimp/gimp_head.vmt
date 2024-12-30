@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "postal/gimp/gimp_head"
+		$color2 "[0.75 0.75 0.75]"
+}

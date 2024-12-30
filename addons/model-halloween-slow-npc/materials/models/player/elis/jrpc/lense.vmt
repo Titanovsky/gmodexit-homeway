@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/player/elis/jrpc/jin-rohhead"
+	"$envmapmask" "Models/player/elis/jrpc/jin-rohhead-mask"
+	"$surfaceprop" "flesh"
+}

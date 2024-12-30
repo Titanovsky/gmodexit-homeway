@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Death_Note/DN_cover"	
+	"$bumpmap" "models/Death_Note/DN_bump1"
+	"$halflambert" 1
+	"$model" "1"
+	"$phong" "1"
+	"$ambientocclusiontexture" "models/Death_Note/DN_ex1"
+	"$phongexponent" 20
+	"$phongexponenttexture" "models/Death_Note/DN_ex1"
+	"$phongboost"	".2"
+	"$phongfresnelranges"	"[0.02 .5 .5]
+}

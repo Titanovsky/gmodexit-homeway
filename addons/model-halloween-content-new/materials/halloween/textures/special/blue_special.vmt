@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{    
+    $basetexture "halloween/textures/special/blue_special"
+		"$surfaceprop" "brick"
+		"%keywords" "Special"
+}

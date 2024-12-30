@@ -1,0 +1,101 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\props_hightower_event\cliff_bridge"
+
+	"$detail" "models\props_hightower_event\cliff_bridge"
+	"$detailscale" "1"
+	"$detailblendfactor" 1
+	"$detailblendmode" 1
+	$additive 1
+	$nocull 1
+	"$yellow" "0"
+	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+
+	">=DX90"
+	{
+		"$selfillum" "1"
+	}
+	
+	"$selfillumtint" "[91 245 141]"
+	"$selfIllumFresnel" "1"
+	"$selfIllumFresnelMinMaxExp" "[.05 0 25]" // 0.0 1.0 1.0 is the default
+	//"$selfIllumFresnelMinMaxExp" "[0 10 20]" // 0.0 1.0 1.0 is the default
+
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[.25 .5 1]"
+	"$basemapalphaphongmask" "1"
+	"$rimlight" "1"
+	"$rimlightexponent" "0"
+	"$rimlightboost" ".1"
+
+	"$cloakPassEnabled" "1"
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" .1
+			"texturescrollangle" 90
+		}
+
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$detail"
+			"animatedtextureframenumvar" "$detailframe"
+			"animatedtextureframerate" 30
+		}
+
+
+		"YellowLevel"
+		{
+			"resultVar" "$yellow"
+		}
+
+		"Equals"
+		{
+			"srcVar1" "$yellow"
+			"resultVar" "$color2"
+		}
+
+// ------------------------- where the magic happens
+
+		"Sine"
+		{
+			"sineperiod" "3"
+			"sinemin" ".0015"
+			"sinemax" ".005"
+			"resultVar" "$selfillumfresnelminmaxexp[1]"
+		}
+		
+		"Sine"
+		{
+			"sineperiod" "2"
+			"sinemin" "1"
+			"sinemax" "1"
+			"resultVar" "$selfillumfresnelminmaxexp[3]"
+		}
+
+// FIRE! FIRE! FIIIIIRRRREEE!		
+		"Sine"
+		{
+			"sineperiod" "3"
+			"sinemin" "0.01"
+			"sinemax" ".1"
+			"resultVar" "$detailblendfactor"
+		}
+		
+		"Sine"
+		{
+			"sineperiod" "1"
+			"sinemin" "15"
+			"sinemax" "10"
+			"resultVar" "$rimlightboost" 
+		}
+	}
+}
+
+
+

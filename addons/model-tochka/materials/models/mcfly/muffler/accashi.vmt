@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\mcfly\muffler\accAshi"
+	"$bumpmap" "models\mcfly\muffler\normal"
+
+	"$lightwarptexture" "models\mcfly\muffler\shader2"
+	$nodecal 1
+	"$Phong" "1"
+	"$PhongBoost" ".01"
+	"$PhongExponent" "0"
+	"$PhongFresnelRanges" "[1 1 2]"
+
+
+}
+
+
+

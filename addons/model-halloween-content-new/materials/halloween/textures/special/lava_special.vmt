@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{    
+    $basetexture "halloween/textures/special/lava_special"
+		"$surfaceprop" "brick"
+		"%keywords" "Special"
+	$selfillum 1
+    $selfillummask "halloween/textures/special/lava_special_emissive"
+}

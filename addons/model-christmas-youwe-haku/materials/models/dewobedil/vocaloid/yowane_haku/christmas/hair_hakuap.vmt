@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/vocaloid/yowane_haku/christmas/hair_HakuAp"
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+	"$nodecal" 1
+	"$nocull" 1
+	"$bumpmap" "models/dewobedil/vocaloid/yowane_haku/christmas/normal"
+
+	"$lightwarptexture" "models/dewobedil/vocaloid/yowane_haku/christmas/toon_hair"
+
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models/dewobedil/vocaloid/yowane_haku/christmas/phong_exp"
+	"$phongfresnelranges"	"[1 .1 .1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}

@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "halloween2015/models/hay/hay_block_skin1_lod02"
+	"$surfaceprop" "Wood_Box"
+
+	"$model" 1
+
+
+}

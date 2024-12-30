@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/serioussam2/weapons/doubleshotgun/shotgun_ingame"
+	"$bumpmap" "models/serioussam2/weapons/doubleshotgun/shotgun_ingame_normalmap"
+	
+	"$phong" "1"
+	"$phongexponent" "80"
+	"$phongboost" "2"
+	"$phongfresnelranges" "[1 1 1]"
+}

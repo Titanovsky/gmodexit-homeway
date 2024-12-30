@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "christmas_gift_boxes\christmas_gift_box_3\christmasgiftbox_01_diff"
+	$bumpmap "christmas_gift_boxes\christmas_gift_box_3\christmasgiftbox_01_norm"
+	$nocull 1
+
+
+}

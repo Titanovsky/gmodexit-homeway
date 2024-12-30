@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$AlphaTest"		"1"
+	"$AlphaTestReference"		"0.450000"
+	"$basetexture"		"Metal/metalgrate014a"
+	"%compilepassbullets"		"1"
+	"%keywords"		"airexchange,c17industrial,combine,wasteland"
+	"$model"		"1"
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{    
+    $basetexture "halloween/textures/h_door/halloween_door"
+		"$surfaceprop" "metal"
+		"%keywords" "door"
+	$selfillum 1
+    $selfillummask "halloween/textures/h_door/emi"
+}

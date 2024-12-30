@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models\v_models\weapons\m4beast\M4A1_S_BEAST_S"
+        "$bumpmap" 	"models\v_models\weapons\m4beast\M4A1_S_BEAST_S_NRM"
+	"$envmap" "env_cubemap"
+	"$selfillum" 1
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" 		"1"
+	"$phongexponent" 	"5"
+	"$phongboost" ".5"
+	"$phongfresnelranges" "[.9 1.5 1]"
+"Proxies" 
+		{ 
+		"AnimatedTexture" 
+			{ 
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "20" 
+			}
+		} 
+}
+

@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "models/grinchfox/foliage/christmastree_branch"
+	$alphatest 1
+	$nocull 1
+	$halflambert 1
+}

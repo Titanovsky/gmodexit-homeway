@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"Metal/metalhull010b"
+	"$detail"		"detail\metal_detail_01"
+	"$detailscale"		"4.283000"
+	"$detailblendfactor"		"0.650000"
+	"$detailblendmode"		"0"
+	"%keywords"		"borealis"
+	"$model"		"1"
+}

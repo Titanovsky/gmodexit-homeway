@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "halloween2015/models/pumbkins/pumbkin_00/pumbkin_00_F06_skin1"
+	"$surfaceprop" "Wood_Box"
+	
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.01 0.01 0.01]"
+
+	
+	"$bumpmap" "halloween2015/models/pumbkins/pumbkin_00/pumbkin_00_F06_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$model" 1
+
+
+
+	$phong 1
+        $phongexponent 5
+        $phongboost 5
+        $phongtint "[0.25 0.25 0.25]"
+        $phongfresnelranges "[1 1 1]"
+	
+}

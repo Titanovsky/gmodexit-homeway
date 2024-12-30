@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "halloween/plant/glowing_plants"
+	    $selfillum 1
+    $selfillummask "halloween/plant/gp_emi"
+}

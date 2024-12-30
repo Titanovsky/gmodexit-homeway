@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Humans\NYPD1940/MIP_CPOLI1d"
+$halflambert 0
+}

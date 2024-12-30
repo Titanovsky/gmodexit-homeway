@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/serioussam2/weapons/plasmarifle/plasmarifle"
+	"$bumpmap" "models/serioussam2/weapons/plasmarifle/plasmarifle_normalmap"
+	
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" ".5"
+	"$phongfresnelranges" "[.8 1 1]"
+}

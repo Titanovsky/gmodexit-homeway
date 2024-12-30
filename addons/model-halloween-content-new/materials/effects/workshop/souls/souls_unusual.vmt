@@ -1,0 +1,6 @@
+"SpriteCard"
+{
+	$basetexture "Effects/workshop/souls/souls_unusual"
+	$vertexcolor 1
+	$vertexalpha 1
+}

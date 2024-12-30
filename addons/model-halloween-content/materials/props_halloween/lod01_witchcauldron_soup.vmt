@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"props_halloween/witchcauldron_soup"
+	//$translucent 1
+	$additive 1
+	"$selfillum" 			"1"
+	
+	"$surfaceprop" "slime"
+	"$model" 1
+}

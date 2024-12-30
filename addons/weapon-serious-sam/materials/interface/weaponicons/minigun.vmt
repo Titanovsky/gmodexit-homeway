@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "interface/weaponicons/minigun"
+	"$translucent" "1"
+	"$vertexcolor" "1"
+}

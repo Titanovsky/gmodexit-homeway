@@ -1,0 +1,15 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/serioussam2/weapons/seriousbomb/glow"
+	"$additive" 1
+	"Proxies"
+	{
+		"Sine"
+		{
+			"sineperiod" ".6"
+			"sinemin" ".5"
+			"sinemax" "2"
+			"resultVar" "$color2"
+		}
+	}
+}

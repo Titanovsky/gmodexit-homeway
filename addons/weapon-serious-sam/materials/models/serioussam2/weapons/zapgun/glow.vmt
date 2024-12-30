@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/serioussam2/weapons/zapgun/glow"
+	"$nocull" 1
+	"$additive" 1
+	"Proxies"
+	{
+		"Sine"
+		{
+			"sineperiod" ".6"
+			"sinemin" ".5"
+			"sinemax" "1"
+			"resultVar" "$color2"
+		}
+	}
+}

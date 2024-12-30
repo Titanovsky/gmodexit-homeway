@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/katazuro/defalt/com_m_arm_regular_cau01_d_high"
+	"$bumpmap" "models/katazuro/defalt/com_m_arm_regular_cau01_n_high"
+	"$halflambert" 1
+	"$phong" 1
+	"$phongboost" 5
+	"$phongexponent" 1
+	"$phongfresnelranges" "[0 1 1]"
+}

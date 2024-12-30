@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\mcfly\muffler\bra1"
+	"$bumpmap" "models\mcfly\muffler\normal"
+
+	"$lightwarptexture" "models\mcfly\muffler\shader2"
+	$nodecal 1
+	"$Phong" "1"
+	"$PhongBoost" ".01"
+	"$PhongExponent" "0"
+	"$PhongFresnelRanges" "[1 1 2]"
+	$alphatest 1
+	"$rimlight"	"1"
+	"$rimlightexponent"	"0.1"
+	"$rimlightboost"	"2"
+
+}
+
+
+

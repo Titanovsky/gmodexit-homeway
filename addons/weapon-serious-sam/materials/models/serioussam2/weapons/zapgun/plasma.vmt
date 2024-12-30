@@ -1,0 +1,29 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/serioussam2/weapons/zapgun/plasma_orange"
+	"$color2" "[1 1 .5]"
+	
+	"$angle" 0.0
+	"$translate" "[0.0 0.0]"
+	"$center" "[0 1]"
+	"$scale" "[2 2]"
+
+	"Proxies"
+	{
+		"LinearRamp"
+		{
+			"rate" -10
+			"initialValue" 0.0
+			"resultVar" "$angle"
+		}
+
+		"TextureTransform"
+		{
+			"translateVar" "$translate"
+			"rotateVar" "$angle"
+			"scaleVar" "$scale"
+			"centerVar" "$center"
+			"resultVar" "$basetexturetransform"
+		}
+	}
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	
+	"$basetexture" "models/player/elis/lw/new_wwlowerteeth"
+	"$envmapcontrast" .9
+	"$envmapsaturation" 0
+}

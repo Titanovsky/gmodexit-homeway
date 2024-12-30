@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	$basetexture "Nier/Tuubiii/sword_base"
+	$color2 "[0.8 0.8 0.8]"
+	$bumpmap "Nier/Tuubiii/sword_nrm"
+	$phongexponenttexture "Nier/Tuubiii/sword_nrmb"
+	
+	"$phong" "1"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.1 1 1.0]"
+	
+	$envmap "env_cubemap"
+	$envmaptint "[0.1 0.1 0.1]"
+	$envmapfresnel "1"
+	$normalmapalphaenvmapmask "1"
+
+}

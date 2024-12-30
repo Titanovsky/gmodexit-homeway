@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "arccw/seele_vollerei_starchasm_nyx/seele_vollerei_starchasm_nyx_sickle"
+	"$lightwarptexture" "arccw/seele_vollerei_starchasm_nyx/basewarp"
+	"$bumpmap" "arccw/seele_vollerei_starchasm_nyx/normal"
+	"$nocull" "1"
+	"$nodecal" "1"
+	"$phong" "1"
+	"$phongboost" ".02"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges" "[1 .1 .1]"
+	"$phongexponent" "1.0"
+	"$halflambert" "1"
+	"$selfillum" "1"
+}

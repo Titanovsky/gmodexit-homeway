@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "halloween/ghostship/GhostShip"
+		$selfillum 1
+    $selfillummask "halloween/ghostship/GhostShip_emissive"
+	"$bumpmap" 	"halloween/ghostship/GhostShip_normal"
+}

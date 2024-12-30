@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"props_firework/rope"
+	"$alphatest"			1
+	"$model" 1
+	
+	"$bumpMap"				"props_firework/rope_normal"
+	"$normalmapalphaenvmapmask" "1"
+
+	$color2 "{ 254 167 0 }"
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0.1"
+}

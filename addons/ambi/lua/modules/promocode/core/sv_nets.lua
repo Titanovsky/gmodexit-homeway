@@ -1,0 +1,1 @@
+net.AddString( 'ambi_promocode_sync' )

@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/gonzo/weedb/charger_gold"
+	"$bumpmap" "models/gonzo/weedb/flat_map"
+	"$phong"		"1"
+	"$phongexponent"		"30"
+	"$phongboost"		"10"
+	"$phongfresnelranges"		"[.25 .5 1]"
+	"$rimlight"		"1"
+	"$rimlightexponent"		"5"
+	"$rimlightboost"		"15"
+	"$envmap" "env_cubemap"
+
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "textures/Shio_Aess_Wyw_2"
+	"$bumpmap" "textures/Shio_Aess_Wyw_2_bump"
+	$alphatest 1
+	$nocull 1
+}

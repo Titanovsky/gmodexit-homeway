@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/player/elis/hr/horror01"
+	"$surfaceprop" "flesh"
+	"$bumpmap" "models/player/elis/hr/horror01_normal"
+
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+
+
+	"$envmap" "env_cubemap"
+
+}

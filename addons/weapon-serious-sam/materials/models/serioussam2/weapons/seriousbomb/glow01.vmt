@@ -1,0 +1,14 @@
+"UnlitTwoTexture"
+{
+	"$basetexture" "models/serioussam2/weapons/seriousbomb/gradient"
+	"$texture2" "models/serioussam2/weapons/seriousbomb/gradient2"
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" .8
+			"texturescrollangle" 0
+		}
+	}
+}

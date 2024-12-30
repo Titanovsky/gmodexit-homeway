@@ -1,0 +1,25 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/jessev92/items/player/apb/hair/parted_left_d
+	$bumpmap dev/bump_normal
+	$lightwarptexture dev/identitylightwarp
+
+	$halflambert 1
+	$ambientocclusion 1
+
+	$nocull 1
+	$alphatest 1
+	// $alphatestreference 0.05
+	$allowalphatocoverage 1
+
+	$phong 1
+	$phongexponent 5
+	$phongboost 1.0
+	$phongfresnelranges "[0 0.5 1]"
+
+	$blendtintbybasealpha 0
+	$blendtintcoloroverbase 1
+
+}

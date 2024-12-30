@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "halloween/skybox/Outhouse"
+		    $selfillum 1
+    $selfillummask "halloween/skybox/Outhouse_emi"
+}

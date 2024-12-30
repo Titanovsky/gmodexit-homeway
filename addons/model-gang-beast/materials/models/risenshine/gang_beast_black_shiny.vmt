@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/risenshine/gang_beast_black_shiny.vtf"
+	"$surfaceprop" "Flesh"
+	"$halflambert" "1"
+	"$phong" "1"
+	"$phongexponent" "0.5"
+	"$phongboost" "0.1"
+	"$phongfresnelranges" "[0 0.5 1]"
+	"$envmap" "env_cubemap"
+	
+	"$envmaptint" "[0.2 0.2 0.2]"
+}

@@ -1,0 +1,11 @@
+UnlitGeneric
+{
+	"$baseTexture" "halloween/textures/deco/bat_deco"
+	"$translucent" 1
+	"$decal" 1
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"%keywords" "bat"
+	$selfillum 1
+    $selfillummask "halloween/textures/deco/bat_deco_emissive"
+}

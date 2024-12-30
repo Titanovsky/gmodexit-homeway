@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "halloween2015/models/hay/hay_block"
+	"$surfaceprop" "Wood_Box"
+	
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.05 0.05 0.05]"
+
+	
+	"$bumpmap" "halloween2015/models/hay/hay_block_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$model" 1
+
+
+}

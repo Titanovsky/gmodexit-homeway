@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "halloween/three/color_emissive"
+	$selfillum 1
+    $selfillummask "halloween/three/color_emissive"
+}

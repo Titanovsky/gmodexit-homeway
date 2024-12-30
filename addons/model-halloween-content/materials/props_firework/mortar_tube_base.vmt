@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"props_firework/mortar_tube_base"
+	"$alphatest"			1
+	"$model" 1
+
+	"$bumpMap"				"props_firework/mortar_tube_base_normal"
+	"$normalmapalphaenvmapmask" "1"
+	
+	
+	$phong 1
+
+        $phongexponent 200
+        $phongboost 1
+        $phongtint "[1 1 1]"
+        $phongfresnelranges "[0.5 0.5 0.5]"
+	
+	
+		$rimlight               1
+		$rimlightexponent       0.25
+		$rimlightboost          4	
+		$phongexponenttexture	"props_firework/mortar_tube_base_normal"
+}

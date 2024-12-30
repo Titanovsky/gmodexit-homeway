@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Vito/t0196_0"
+	"$surfaceprop" "Default"
+	"$alphatest" 1
+	"$nodecal" 1
+}

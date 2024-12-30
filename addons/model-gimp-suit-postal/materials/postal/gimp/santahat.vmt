@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "postal/gimp/santahat"
+	$nocull 1
+}

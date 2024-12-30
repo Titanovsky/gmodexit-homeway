@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "ambi/homeway/list/sand1_blue"
+	"$surfaceprop" "Quicksand"
+}

@@ -1,0 +1,5 @@
+"UnLitGeneric"
+{
+	"$basetexture" "models/serioussam2/weapons/colt/colt_ingame"
+	"$additive" 1
+}
