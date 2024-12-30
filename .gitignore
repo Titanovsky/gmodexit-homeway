@@ -12,6 +12,8 @@
 *.otf
 *.exe
 *.png
+*.zip
+*.rar
 addons/ambi/lua/modules/spy/*
 addons/script-igs/lua/igs/settings/config_sv.lua
 addons\script-igs\lua\igs\settings\config_sv.lua
