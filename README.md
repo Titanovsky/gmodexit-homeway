@@ -32,6 +32,11 @@
     3 - Запустить сервер на rp_bangclaw и убедиться, что всё нормально
     4 - Если всё нормально, выдать себе superadmin через ULX
 
+## База данных
+
+* Инфа о игроках: Имя, SteamID, последний заход и дата регистрации ([здесь](https://github.com/Titanovsky/gmodexit-homeway/blob/main/database/homeway_players.md))
+* Все организации ([здесь](https://github.com/Titanovsky/gmodexit-homeway/blob/main/database/homeway_organizations.md))
+
 ## Дополнительная инфа
 
 * Этот проект построен на [Ambi Eco](https://github.com/Titanovsky/ambi-eco), и основная деятельность ведётся в ambi/lua/modules, основной модуль project-homeway. Остальные модули используйте через конфиги.
