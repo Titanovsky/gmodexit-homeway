@@ -13,6 +13,7 @@
 *.png
 *.zip
 *.rar
+*.mp3
 addons/ambi/lua/modules/spy/*
 addons/script-igs/lua/igs/settings/config_sv.lua
 addons\script-igs\lua\igs\settings\config_sv.lua
